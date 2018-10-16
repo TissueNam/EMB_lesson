@@ -9,6 +9,8 @@ int main(void)
 	func1();
 //	func2();
 	kcm();
+
+	printf("long~~~");
 	return 0;
 }
 
