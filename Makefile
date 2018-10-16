@@ -1,5 +1,5 @@
 CC= gcc
-OBJ= func1.o myapp.o
+OBJ= func1.o func2.o myapp.o
 CFLAG= -g -Wall
 TARGET= myapp
 
